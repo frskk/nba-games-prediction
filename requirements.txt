@@ -47,7 +47,7 @@ nbconvert
 nbformat
 nest-asyncio==1.5.7
 notebook_shim==0.2.3
-numpy=
+numpy
 overrides==7.4.0
 packaging==23.1
 pandas
