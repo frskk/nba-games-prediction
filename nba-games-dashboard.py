@@ -14,6 +14,7 @@ team_names.sort()
 team_name_dropdown_options = [{'label': i, 'value': i} for i in team_names]
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.H1("Welcome to the NBA games winner prediction"),
