@@ -81,7 +81,7 @@ rpds-py
 scikit-learn
 scipy
 Send2Trash
-six=
+six
 sniffio
 soupsieve
 stack-data
